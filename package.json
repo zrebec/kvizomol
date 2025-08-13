@@ -1,0 +1,28 @@
+{
+  "name": "kvizomol",
+  "author": "Frisky Fox",
+  "version": "0.0.1",
+  "description": "Easy game for making easy trivias with timer",
+  "homepage": "https://github.com/zrebec/kvizomol#readme",
+  "main": "index.js",
+  "keywords": [
+    "kviz",
+    "trivia",
+    "timer",
+    "autoswitch"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrebec/kvizomol.git"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/zrebec/kvizomol/issues"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "quiz_name": "33 základných otázok z geografie, popkultúry a histórie",
+    "questions":
+    [
+        { "question": "Ktorý rímsky cisár je známy svojou tyranskou vládou a údajným zapálením Ríma?",
+         "answers": [
+            { "option": "Augustus", "isValidAnswer": false },
+            { "option": "Nero", "isValidAnswer": true },
+            { "option": "Trajánus", "isValidAnswer": false },
+            { "option": "Konštanín Veľký", "isValidAnswer": false }
+         ]}
+    ]
+}
